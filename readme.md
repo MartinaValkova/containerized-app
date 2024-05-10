@@ -18,7 +18,7 @@ Clone the Repository from github :
 - git clone https://github.com/MartinaValkova/containerized-app.git
 - cd containerized-app
 
-# Builing and Running the Application
+# Building and Running the Application
 
 - Ensure Script Permissions:
 
@@ -46,7 +46,7 @@ To stop the running containers, use:
 
 # Additional Notes
 
-The database is automatically initialized with a table named names, which contains a row with the name "Your Name". This is provided as a placeholder and can be modified as needed.
+The database is automatically initialized with a table named names, which contains a row with the name "Martina". This is provided as a placeholder and can be modified as needed.
 This setup is intended for development and testing purposes. For production deployment, additional considerations such as security and scalability should be taken into account.
 
 
